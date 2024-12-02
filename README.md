@@ -1,5 +1,4 @@
 # sqltoolsservice
-Workaround to enable Programmability in VS Code mssql extension and Azure Data Studio.
 
 VS Code Directory: <br>
 %USERPROFILE%\.vscode\extensions\ms-mssql.mssql-1.24.0\sqltoolsservice\5.0.20240823.2\Windows
